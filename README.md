@@ -39,6 +39,6 @@ This repository contains the source code for a **Web-Based Event Management Dash
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/<username>/Event-Management-App.git  
+   git clone https://github.com/<Kushcse09>/Event-Management-App.git  
    cd Event-Management-App  
 
